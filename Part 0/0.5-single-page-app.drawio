@@ -1,0 +1,54 @@
+<mxfile host="65bd71144e">
+    <diagram id="zJ50Jqo7eB_NynuWE-4F" name="Page-1">
+        <mxGraphModel dx="755" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <object label="Browser" id="2">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="110" y="765" width="160" height="75" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="4" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="765" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="190" y="1000" as="sourcePoint"/>
+                        <mxPoint x="189.82" y="840" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="190" y="890"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="190" y="910" as="sourcePoint"/>
+                        <mxPoint x="480" y="910" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="480" y="995" as="sourcePoint"/>
+                        <mxPoint x="480" y="845" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="480" y="915"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="480" y="980" as="sourcePoint"/>
+                        <mxPoint x="190" y="980" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="HTML document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="960" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="GET /exampleapp/spa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="880" width="120" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
